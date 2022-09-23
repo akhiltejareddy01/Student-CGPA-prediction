@@ -1,0 +1,60 @@
+S_NO,ROLL_NO,NAME,BRANCH,GENDER,AGE,ADDRESS,ATTENDANCE,CREDITS,SEM_1_GPA,SEM_2_GPA,SEM_3_GPA,CGPA,BACKLOGS
+1,20r21a6701,Aakash,csd,male,19,hyderabad,73,55,7.06,0,6.22,0,1
+2,20r21a6702,Aashutosh,csd,male,19,hyderabad,83,59,8.71,6.66,7.57,7.6,0
+3,20r21a6703,A.smrithika,csd,female,19,hyderabad,83,59,7.32,7,7.43,7.26,0
+4,20r21a6704,A.Rishikesh,csd,male,19,hostel,70,59,8.41,7.55,7.15,7.64,0
+5,20r21a6705,A.Lakshmi Sruthi,csd,female,19,hyderabad,75,59,8.79,8.74,6.86,8.03,0
+6,20r21a6706,Anjali,csd,female,19,hyderabad,71,59,7.76,6.63,6.26,6.81,0
+7,20r21a6707,A.vijay,csd,male,19,hyderabad,72,59,7.79,6.79,7.15,7.22,0
+8,20r21a6708,B.manish,csd,male,19,hyderabad,81,59,7.74,7.29,7.43,7.47,0
+9,20r21a6709,B.pavithra,csd,female,19,hostel,76,59,8.18,7.45,7.39,7.64,0
+10,20r21a6710,Bindu vasuki,csd,female,20,hostel,71,51,0,0,7.09,7.64,1
+11,20r21a6711,C.Tapan,csd,male,20,hostel,87,55,8.44,0,7.5,0,1
+12,20r21a6712,D.Sarath,csd,male,20,hyderabad,57,27,0,0,0,0,8
+13,20r21a6713,D.Bharath,csd,male,19,hyderabad,80,59,8.12,6.84,7.22,7.36,0
+14,20r21a6714,D.Daniel,csd,male,19,hyderabad,78,49,7,0,0,0,3
+15,20r21a6715,D.Vivek,csd,male,19,hyderabad,76,59,8.82,8.08,7.22,7.96,0
+16,20r21a6716,Eniya Darshini,csd,male,19,hyderabad,79,59,7.79,6.79,8.26,7.65,0
+17,20r21a6717,G.Karthikeya,csd,male,19,hyderabad,57,31,6.53,0,0,0,8
+18,20r21a6718,G.Yashwanth,csd,male,19,hyderabad,81,59,8.62,7.58,7.91,8.02,0
+19,20r21a6719,G.Yashwanth Reddy,csd,male,19,hyderabad,58,47,6.41,6.05,0,0,3
+20,20r21a6720,G.Srujana,csd,female,19,hostel,68,59,9.18,8.79,8.61,8.83,0
+21,20r21a6721,G.Vaishnavi,csd,female,20,hostel,88,59,9.12,9.11,9.3,9.19,0
+22,20r21a6722,G.Deekshitha,csd,female,19,hyderabad,78,59,8.74,8.89,8.26,8.6,0
+23,20r21a6723,G.Niharika,csd,female,19,hyderabad,82,55,6.59,6,0,0,1
+24,20r21a6724,G.Karthekeya,csd,male,20,hostel,77,59,8.15,8.08,6.85,7.62,0
+25,20r21a6725,Goutham.J,csd,male,19,hyderabad,85,59,8,7.5,7.96,7.82,0
+26,20r21a6726,G.Sanjana,csd,female,18,hyderabad,65,59,8.68,6.34,7.26,7.08,0
+27,20r21a6727,G.Varshitha,csd,female,19,hyderabad,86,59,9.47,8.63,9.13,9.07,0
+28,20r21a6728,I.kavya,csd,female,19,hyderabad,69,39,7.15,0,0,0,5
+29,20r21a6729,I.vineesha,csd,female,19,hyderabad,78,59,8,7.32,8.02,7.79,0
+30,20r21a6730,K.Vinay teja,csd,male,19,hyderabad,80,55,7.32,7.05,0,0,1
+31,20r21a6731,K.Akshay Kiran,csd,male,20,hyderabad,21,12,0,0,0,0,15
+32,20r21a6732,K.Jagadish,csd,male,19,hyderabad,75,59,7.29,7.5,6.98,7.24,0
+33,20r21a6733,K.Hrishikesh,csd,male,19,hyderabad,75,59,7.21,6.79,7.39,7.14,0
+34,20r21a6734,K.harshitha,csd,female,19,hyderabad,73,59,7.91,7.5,7.78,7.73,0
+35,20r21a6735,K.Lakshmi,csd,female,19,hyderabad,60,59,7.82,6.92,7.67,5.22,0
+36,20r21a6736,K.Mounika,csd,female,19,hostel,85,59,9.09,9.26,8.26,8.82,0
+37,20r21a6737,K.Sri Prabha,csd,female,19,hyderabad,91,59,9.38,9.87,8.96,9.37,0
+38,20r21a6738,Konda Harshitha,csd,female,19,hostel,90,59,8.41,8.92,7.74,8.31,0
+39,20r21a6739,K.Akhila,csd,female,19,hyderabad,68,59,7.32,5.97,8.26,7.25,0
+40,20r21a6740,K.Sathwik,csd,male,20,hyderabad,76,59,8.26,6.58,7.33,7.36,0
+41,20r21a6741,L.Vineetha,csd,female,20,hyderabad,77,51,7.29,0,0,0,2
+42,20r21a6742,Lallu kumar yadhav,csd,male,19,hyderabad,55,34,6.82,0,0,0,8
+43,20r21a6743,M.Rajashekar,csd,male,20,hyderabad,85,59,9.32,8.71,7.91,8.58,0
+44,20r21a6744,N.Abhi Madhav,csd,male,22,hyderabad,88,59,8.79,9.03,7.5,8.3,0
+45,20r21a6745,N.Karthik,csd,male,19,hostel,74,55,6.91,7.08,0,0,1
+46,20r21a6746,P.Renu,csd,female,19,hyderabad,89,59,9.41,9.03,8.61,8.97,0
+47,20r21a6748,P.Sai Lakshmi,csd,female,19,hyderabad,78,55,8.18,7.95,0,0,1
+48,20r21a6749,P.Kalyani,csd,female,19,hostel,76,55,8.68,9.16,8.37,8.71,0
+49,20r21a6750,R.Vivek,csd,male,20,hyderabad,63,51,7.47,5.92,0,0,2
+50,20r21a6751,Sai Kumar,csd,male,20,hostel,69,59,8.65,8.53,6.87,7.92,0
+51,20r21a6752,Ritesh Dhyan,csd,male,19,hostel,79,59,8.35,7.58,7.91,7.93,0
+52,20r21a6753,Sarva Nithin,csd,male,19,hyderabad,79,59,7.53,6.84,7.85,7.43,0
+53,20r21a6754,Sarath chandra jk,csd,male,19,hostel,93,59,8.94,8.47,7.39,8.19,0
+54,20r21a6755,T.Deekshitha,csd,female,19,hostel,81,59,8.71,8.13,7.91,8.21,0
+55,20r21a6756,T.Sravya,csd,female,19,hyderabad,76,59,8.79,8.66,8.09,8.47,0
+56,20r21a6757,T.Vaishnavi,csd,female,19,hyderabad,76,59,8.79,8.29,8.26,8.42,0
+57,20r21a6758,V.Sahana,csd,female,19,hostel,59,51,6.59,0,0,0,0
+58,20r21a6759,Y.Uday Kiran,csd,male,19,hyderabad,81,48,0,0,0,0,0
+59,20r21a6760,Y.V.Akhil Teja,csd,male,19,hyderabad,75,59,7.59,7.08,6.61,7.04,0
